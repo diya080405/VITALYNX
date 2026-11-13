@@ -1,0 +1,6 @@
+{
+  "name": "VITALYNX – Intelligent Post-Discharge Monitoring",
+  "description": "Continuous post-discharge clinical deterioration surveillance dashboard with sensor artifact differentiation and personalized NEWS2 tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
